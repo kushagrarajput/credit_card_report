@@ -7,4 +7,4 @@ STEP 6- Data cleaning / data processing in MYSQL database.
 STEP 7- Connect the Database with PowerBI
 STEP 8- Process and edit the data With DAX in PowerBI on the database connected via MYSQL
 STEP 9- making of Multiple Dashboards in PowerBI using edited database 
-STEP 10- Project Insights- Week 52
+STEP 10- Project Insights- Week 52.
